@@ -1,0 +1,13 @@
+/**
+ * This is my first ever program!
+ *
+ * @author Abdullah Alkaysey
+ * @since 1/30/2023
+ * @version v1.0
+ */
+public class HelloWorld {
+public static void main(String[] args) {
+    System.out.println("Hello world!");
+    System.out.println("Abdullah Alkaysey");
+}
+}
